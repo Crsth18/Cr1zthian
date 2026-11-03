@@ -61,6 +61,6 @@ Me apasiona construir soluciones que conectan el mundo digital con el físico: a
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0ea5e9&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Crsth18&label=Visitas&color=0ea5e9&style=flat-square)
 
 </div>
